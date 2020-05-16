@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585356973407",
+    "firebase_url": "https://solar-chat-1baea.firebaseio.com",
+    "project_id": "solar-chat-1baea",
+    "storage_bucket": "solar-chat-1baea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585356973407:android:fb7e9d7d5f1f77ac9212ea",
+        "android_client_info": {
+          "package_name": "sherifr2ft.solarchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585356973407-vr6d5v727r8heoofum1c41a5skbbuu7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpdP3GbxscSQB_HXpk2sjDvr8H970XGpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585356973407-vr6d5v727r8heoofum1c41a5skbbuu7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
