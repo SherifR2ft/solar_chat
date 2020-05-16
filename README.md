@@ -3,7 +3,7 @@
 ![Finished App](https://github.com/SherifR2ft/Images/blob/master/Images/SolarChat-icon.png)
 
 ## How to install
-To open the project inside Android Studio, simply clone the project from Github using
+To open the project inside Android Studio, simply clone the project from Github using  
 VCS → Checkout from Version Control → Git.
 
 ## The Description
